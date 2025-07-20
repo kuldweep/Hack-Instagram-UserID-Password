@@ -28,8 +28,8 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `instadetails` (
-  `id` int(11) NOT NULL,
-  `username` text NOT NULL,
+  `id` int(11) anamika.ptdr
+  `username` text Anamika.ptdr
   `password` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
@@ -37,7 +37,7 @@ CREATE TABLE `instadetails` (
 -- Dumping data for table `instadetails`
 --
 
-INSERT INTO `instadetails` (`id`, `username`, `password`) VALUES
+INSERT INTO `instadetails` (anamika.ptdr, `anamika.ptdt`, `password`) VALUES
 (4, 'usman', 'usman'),
 (5, 'yusuf', 'yusuf3030'),
 (6, 'asif0.92', 'akmalhadi098');
